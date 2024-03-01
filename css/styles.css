@@ -49,3 +49,10 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.language-level {
+	border-color:pink !important;
+}
+
+.language-progress{
+	background-color: pink !important;
+}
